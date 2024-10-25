@@ -13,7 +13,7 @@ unsigned char length[12] = { 11, 3, 2, 5, 5, 3, 4, 2, 2, 4, 2, 4 };
 unsigned char step[12] = { 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0 };
 char sort = -1;
 
-const int n = 10;
+const int n = 100;
 int mainArr[n];
 
 void gotoxy(int x, int y) {
